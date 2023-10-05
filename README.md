@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-// Need to add a link and screenshot.
+// Need to add a link and screenshot & need to fix a few bugs.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
